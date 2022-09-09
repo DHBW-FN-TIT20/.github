@@ -28,6 +28,7 @@ This organization is used to collect and publish all coding projects that were c
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </span>
 
+
 <span>
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -41,12 +42,14 @@ This organization is used to collect and publish all coding projects that were c
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 </span>
 
+
 <span>
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
 </span>
+
 
 <span>
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -57,10 +60,12 @@ This organization is used to collect and publish all coding projects that were c
 
 # 📫 Contact
 ## ⚖️ Organization owner
-- Name: [Henry Schuler](https://github.com/schuler-henry)
+### [Henry Schuler](https://github.com/schuler-henry)
 - DHBW E-Mail: [schuler.henry-it20@it.dhbw-ravensburg.de](mailto:schuler.henry-it20@it.dhbw-ravensburg.de)
 - E-Mail: [contact@henryschuler.de](mailto:contact@henryschuler.de)
 
+### [Johannes Brandenburger](https://github.com/johannesbrandenburger)
+- DHBW E-Mail: [brandenburger-it20@it.dhbw-ravensburg.de](mailto:brandenburger-it20@it.dhbw-ravensburg.de)
 <!--
 
 **Here are some ideas to get you started:**
