@@ -1,5 +1,5 @@
 # 🙋‍♀️ About DHBW-FN-TIT20
-This organization is used to collect and publish all coding projects that were created during our courses at the [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite) (10/2020 - 09/2023).
+This organization is used to collect and publish all coding projects that were created during our courses at [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite) (10/2020 - 09/2023).
 
 # ⚙️ Currently working on
 
@@ -54,6 +54,7 @@ This organization is used to collect and publish all coding projects that were c
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" />
 </span>
+<br>
 
 # 📫 Contact
 ## ⚖️ Organization owner
