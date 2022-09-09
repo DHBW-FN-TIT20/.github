@@ -11,6 +11,12 @@ This organization is used to collect and publish all coding projects that were c
 - [Essensfindung](https://github.com/DHBW-FN-TIT20/essensfindung), a program to search for restaurant or recipe suggestions
 - [Sysprog-TIT20](https://github.com/DHBW-FN-TIT20/Sysprog-TIT20), a program that evaluates time differences between timestamps, written in assembly x86-64
 
+# Skills
+<span>
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</span>
+
 # 📫 Contact
 ## ⚖️ Organization owner
 - Name: [Henry Schuler](https://github.com/schuler-henry)
