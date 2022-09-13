@@ -64,6 +64,8 @@ This organization is used to collect and publish all coding projects that were c
 
 ### [Johannes Brandenburger](https://github.com/johannesbrandenburger)
 - DHBW E-Mail: [brandenburger-it20@it.dhbw-ravensburg.de](mailto:brandenburger-it20@it.dhbw-ravensburg.de)
+- E-Mail: [johannes@brandenburger.dev](mailto:johannes@brandenburger.dev)
+
 <!--
 
 **Here are some ideas to get you started:**
