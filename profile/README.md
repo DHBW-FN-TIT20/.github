@@ -2,6 +2,10 @@
 This organization is used to collect and publish all coding projects that were created during our courses at [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite) (10/2020 - 09/2023).
 
 # ⚙️ Currently working on
+- [Know Where You Go](https://github.com/DHBW-FN-TIT20/know-where-you-go)
+- [Skateboard](https://github.com/DHBW-FN-TIT20/Skateboard)
+- [Zoo](https://github.com/DHBW-FN-TIT20/Zoo)
+- [Lost-Island](https://github.com/DHBW-FN-TIT20/Lost-Island)
 
 # ✔️ Developed projects
 - [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style
@@ -26,6 +30,7 @@ This organization is used to collect and publish all coding projects that were c
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </span>
 <br>
 <span>
