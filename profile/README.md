@@ -5,7 +5,8 @@ This organization is used to collect and publish all coding projects that were c
 - [Know Where You Go](https://github.com/DHBW-FN-TIT20/know-where-you-go)
 - [Skateboard](https://github.com/DHBW-FN-TIT20/Skateboard)
 - [Zoo](https://github.com/DHBW-FN-TIT20/Zoo)
-- [Lost-Island](https://github.com/DHBW-FN-TIT20/Lost-Island)
+- [Lost Island](https://github.com/DHBW-FN-TIT20/Lost-Island)
+- [Flight School](https://github.com/DHBW-FN-TIT20/flight-school), an online flight school / simulator build with three.js
 
 # ✔️ Developed projects
 - [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style
