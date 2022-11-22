@@ -6,7 +6,6 @@ This organization is used to collect and publish all coding projects that were c
 - [Skateboard](https://github.com/DHBW-FN-TIT20/Skateboard)
 - [Zoo](https://github.com/DHBW-FN-TIT20/Zoo)
 - [Lost Island](https://github.com/DHBW-FN-TIT20/Lost-Island)
-- [Flight School](https://github.com/DHBW-FN-TIT20/flight-school), an online flight school / simulator build with three.js
 
 # ✔️ Developed projects
 - [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style
@@ -15,6 +14,7 @@ This organization is used to collect and publish all coding projects that were c
 - [Schokofinder](https://github.com/DHBW-FN-TIT20/Schokofinder), an online chocolate quiz
 - [Essensfindung](https://github.com/DHBW-FN-TIT20/essensfindung), a program to search for restaurant or recipe suggestions
 - [Sysprog-TIT20](https://github.com/DHBW-FN-TIT20/Sysprog-TIT20), a program that evaluates time differences between timestamps, written in assembly x86-64
+- [Flight School](https://github.com/DHBW-FN-TIT20/flight-school), an online flight school / simulator build with three.js
 
 # Skills
 <span>
