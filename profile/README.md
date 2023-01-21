@@ -2,19 +2,20 @@
 This organization is used to collect and publish all coding projects that were created during our courses at [DHBW Friedrichshafen](https://www.ravensburg.dhbw.de/startseite) (10/2020 - 09/2023).
 
 # ⚙️ Currently working on
-- [Know Where You Go](https://github.com/DHBW-FN-TIT20/know-where-you-go)
-- [Skateboard](https://github.com/DHBW-FN-TIT20/Skateboard)
-- [Zoo](https://github.com/DHBW-FN-TIT20/Zoo)
-- [Lost Island](https://github.com/DHBW-FN-TIT20/Lost-Island)
+- [Komposition-eines-Musikstuecks-mittels-Neuronaler-Netze](https://github.com/DHBW-FN-TIT20/Komposition-eines-Musikstuecks-mittels-Neuronaler-Netze)
 
 # ✔️ Developed projects
-- [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style
+- [DEV-CHAT](https://github.com/DHBW-FN-TIT20/dev-chat), an online chat in console-style (also view the [evaluation on aspects of software quality](https://github.com/DHBW-FN-TIT20/softwarequalitaet-dev-chat))
 - [WebNotes](https://github.com/DHBW-FN-TIT20/web-notes), an online note app with collaboration functionality
 - [U Never Game Alone](https://github.com/DHBW-FN-TIT20/unevergamealone), a webapp to find gamers playing the same game
 - [Schokofinder](https://github.com/DHBW-FN-TIT20/Schokofinder), an online chocolate quiz
 - [Essensfindung](https://github.com/DHBW-FN-TIT20/essensfindung), a program to search for restaurant or recipe suggestions
 - [Sysprog-TIT20](https://github.com/DHBW-FN-TIT20/Sysprog-TIT20), a program that evaluates time differences between timestamps, written in assembly x86-64
 - [Flight School](https://github.com/DHBW-FN-TIT20/flight-school), an online flight school / simulator build with three.js
+- [Know Where You Go](https://github.com/DHBW-FN-TIT20/know-where-you-go), eine [Webanwendung](https://know-where-you-go.de/) die Ihnen hilft herauszufinden wo Sie sind und wohin Sie gehen.
+- [Skateboard](https://github.com/DHBW-FN-TIT20/Skateboard)
+- [Zoo](https://github.com/DHBW-FN-TIT20/Zoo)
+- [Lost Island](https://github.com/DHBW-FN-TIT20/Lost-Island)
 
 # Skills
 <span>
